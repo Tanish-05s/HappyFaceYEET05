@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HappyFaceYEET05
+- 👋 Hi, I’m @Tanish_05s
 - 👀 I’m interested in ...
           Coding,
           Gaming,
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ...
           Python
 - 📫 How to reach me ...
-       happfaceyt05@gmail.com
+       tanish.hfi.2005@gmail.com
 
 <!---
 HappyFaceYEET05/HappyFaceYEET05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
           Gaming,
           Music
 - 🌱 I’m currently learning ...
-          Python
+          Java
 - 📫 How to reach me ...
        tanish.hfi.2005@gmail.com
 

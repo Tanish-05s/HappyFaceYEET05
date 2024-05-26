@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Tanish_05s
-- 👀 I’m interested in ...
-          Coding,
-          Gaming,
-          Music
-- 🌱 I’m currently learning ...
-          Java
 - 📫 How to reach me ...
        tanish.hfi.2005@gmail.com
 
